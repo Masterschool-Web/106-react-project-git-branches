@@ -2,7 +2,7 @@ import { Card } from "../Card/Card";
 import "./container.css";
 
 export const Container = () => {
-  const list = ["something"];
+  const list = [];
 
   return (
     <div className='container'>
